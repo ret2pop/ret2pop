@@ -1,7 +1,6 @@
 # Ret2Pop
-Hi! I'm Ret2pop. Most people know me as LiCoO2 or _Preston Pan_.
-Don't worry, I forgot real life names existed too. I go to UVic
-and I am currently doing science, probably a physics mathematics
+Hi! I'm Ret2pop. Most people know me as LiCoO2 or _Preston Pan_, living in Canada/2005. Don't worry, I forgot real life
+names existed too. I go to UVic and I am currently doing science, probably a physics mathematics
 dual degree.
 
 ## Website
